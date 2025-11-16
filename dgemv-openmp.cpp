@@ -22,7 +22,6 @@ void my_dgemv(int n, double* A, double* x, double* y) {
       printf("my_dgemv(): For actual timing runs, please comment out these printf() and omp_get_*() statements. \n");
    }
 
-   double row;
    #pragma omp parallel for
    for(int i = 0; i < n; i++) {
       double row = 0; // resets/ initialize the start of row i
