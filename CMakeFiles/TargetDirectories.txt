@@ -1,7 +1,0 @@
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/rebuild_cache.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/benchmark-openmp.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/benchmark-blas.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/edit_cache.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/benchmark-vectorized.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/benchmark-basic.dir
-/global/homes/k/kerry/vmmul-omp-harness-instructional/CMakeFiles/benchmark.dir
