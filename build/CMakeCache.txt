@@ -28,10 +28,10 @@ CMAKE_BUILD_TYPE:STRING=
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //saved value of CRAYPE_LINK_TYPE environment variable
-CMAKE_CRAYPE_LINKTYPE:STRING=
+CMAKE_CRAYPE_LINKTYPE:STRING=dynamic
 
 //saved value of LOADEDMODULES environment variable
-CMAKE_CRAYPE_LOADEDMODULES:STRING=craype-x86-milan:libfabric/1.22.0:craype-network-ofi:xpmem/2.9.7-1.1_20250411150514__g191b5f8bea4c:PrgEnv-gnu/8.5.0:cray-dsmml/0.3.0:cray-libsci/24.07.0:cray-mpich/8.1.30:craype/2.7.32:gcc-native/13.2:perftools-base/24.07.0:cpe/24.07:sqs/2.0:darshan/default:cpu/1.0
+CMAKE_CRAYPE_LOADEDMODULES:STRING=craype-x86-milan:libfabric/1.22.0:craype-network-ofi:xpmem/2.9.7-1.1_20250411150514__g191b5f8bea4c:PrgEnv-gnu/8.5.0:cray-dsmml/0.3.0:cray-libsci/24.07.0:cray-mpich/8.1.30:craype/2.7.32:gcc-native/13.2:perftools-base/24.07.0:cpe/24.07:cudatoolkit/12.4:craype-accel-nvidia80:gpu/1.0:sqs/2.0:darshan/default
 
 //CXX compiler
 CMAKE_CXX_COMPILER:FILEPATH=/opt/cray/pe/craype/2.7.32/bin/CC
